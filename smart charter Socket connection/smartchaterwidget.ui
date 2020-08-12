@@ -33,7 +33,7 @@
    <item>
     <widget class="QPushButton" name="pushButton">
      <property name="text">
-      <string>Connect</string>
+      <string>ConnectToHost Socket</string>
      </property>
     </widget>
    </item>
